@@ -1,0 +1,7 @@
+#datatype:it is the type of data.
+#int=integer
+#float=decimal values
+#str=string ,
+#bool= True=1 
+      False=0
+      #complex=3+2j
