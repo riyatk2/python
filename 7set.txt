@@ -1,0 +1,5 @@
+set:
+unordered.
+unindexed.
+slicing is not possible.
+

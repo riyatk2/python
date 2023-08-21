@@ -1,0 +1,10 @@
+Tuple:
+Tuples are used to store multiple items in a single variable.
+A tuple is a collection which is ordered and unchangable.
+immutable(unchangable)
+tuples are return with round brackets.
+
+ methods:
+
+ count : return count of a values.
+ index : return index of a value. 

@@ -24,3 +24,4 @@ var2=[1,4,5]
 var3=[5,8,9]
 var2.extend(var3)
 print(var2)
+
