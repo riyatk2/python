@@ -1,0 +1,17 @@
+list:
+storting multiple data in a single variable.
+heterogenous
+ordered ,changeble allow duplicate.
+
+built in methods:
+
+* append : add new item in the last position.
+* clear : clear all items in a list.
+* copy : take copy of a list into another.
+* count : returns occurance of a value.
+* extend : merge to list.
+* index : print index of a data.
+* insert : insert item into a specific position.
+* pop : remove last item in list.
+* remove : remove items.
+* sort : sort list in ascending or descending.
